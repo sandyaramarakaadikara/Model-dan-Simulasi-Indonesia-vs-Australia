@@ -1,0 +1,19 @@
+﻿window,paired_countries_n,expenditure_direction,arms_imports_direction,country_count
+2016-2020 vs 2021-2025,12,increase,increase,3
+2016-2020 vs 2021-2025,12,increase,decrease,7
+2016-2020 vs 2021-2025,12,increase,no_change,0
+2016-2020 vs 2021-2025,12,decrease,increase,1
+2016-2020 vs 2021-2025,12,decrease,decrease,1
+2016-2020 vs 2021-2025,12,decrease,no_change,0
+2016-2020 vs 2021-2025,12,no_change,increase,0
+2016-2020 vs 2021-2025,12,no_change,decrease,0
+2016-2020 vs 2021-2025,12,no_change,no_change,0
+2015-2019 vs 2020-2024 (overlapping sensitivity),13,increase,increase,4
+2015-2019 vs 2020-2024 (overlapping sensitivity),13,increase,decrease,7
+2015-2019 vs 2020-2024 (overlapping sensitivity),13,increase,no_change,0
+2015-2019 vs 2020-2024 (overlapping sensitivity),13,decrease,increase,0
+2015-2019 vs 2020-2024 (overlapping sensitivity),13,decrease,decrease,2
+2015-2019 vs 2020-2024 (overlapping sensitivity),13,decrease,no_change,0
+2015-2019 vs 2020-2024 (overlapping sensitivity),13,no_change,increase,0
+2015-2019 vs 2020-2024 (overlapping sensitivity),13,no_change,decrease,0
+2015-2019 vs 2020-2024 (overlapping sensitivity),13,no_change,no_change,0

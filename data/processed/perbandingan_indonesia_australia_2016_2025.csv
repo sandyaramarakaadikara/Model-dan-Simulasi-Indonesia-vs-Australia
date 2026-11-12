@@ -1,0 +1,5 @@
+﻿country,period,n_spending_years,mean_annual_spending_usd_2024_bn,mean_spending_gdp_percent,arms_imports_wdi_years,arms_imports_wdi_5yr_sum_constant_1990_usd,arms_imports_wdi_change_percent_vs_previous_period,change_spending_percent_vs_previous_period,change_burden_percentage_points_vs_previous_period
+Australia,2016-2020,5,29.924404316592494,1.9681705656129909,5,7020000000.0,,,
+Australia,2021-2025,5,33.9508045747545,1.9052386726625006,5,4306000000.0,-38.66096866096866,13.455239461289615,-0.06293189295049029
+Indonesia,2016-2020,5,8.547385292566162,0.7982362505203221,5,2402000000.0,,,
+Indonesia,2021-2025,5,11.442583238860776,0.847127396242727,5,2304000000.0,-4.079933388842627,33.87232290572684,0.04889114572240494
